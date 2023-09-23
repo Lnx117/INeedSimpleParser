@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mpakfm/printu": "^2.0",
+        "sunra/php-simple-html-dom-parser": "^1.5",
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
